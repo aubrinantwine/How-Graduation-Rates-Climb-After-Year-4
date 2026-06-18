@@ -1,4 +1,4 @@
-#How Graduation Rates Climb After Year 4
+# How Graduation Rates Climb After Year 4
 
 A data journalism piece produced as a tryout submission for *The Daily Texan*, comparing 4-year and 6-year graduation rates across UT System and Texas A&M System institutions using IPEDS data, Excel, and R.
 
