@@ -27,7 +27,7 @@ Most federal financial aid and merit scholarships are designed around a 4-year d
 - **The UT System outperforms the A&M System overall.** In the most recent reporting year (2023), UT System schools averaged a 43.3% 4-year graduation rate and 63.3% 6-year rate, compared to A&M System schools' 31.8% and 54.5%, respectively.
 - **Texas A&M University-San Antonio had the lowest 6-year graduation rate** at 30%, and tied with Prairie View A&M, Texas A&M-Texarkana, and UT El Paso for the lowest 4-year rate at 20%.
 - **The lowest-performing UT System school** was UT El Paso, with a 20% 4-year rate and 50% 6-year rate.
-- **4-year rates were largely static** across reporting years — only two schools saw change: Texas A&M-Texarkana dropped 20% from 2021 to 2023, while UT Rio Grande Valley rose 33.3%. UT San Antonio was excluded from trend analysis due to missing 2021 data.
+- **4-year rates were largely static** across reporting years — only two schools saw change: Texas A&M-Texarkana dropped 20% from 2021 to 2023, while UT Rio Grande Valley rose 33.3%. A&M San Antonio was excluded from trend analysis due to missing 2021 data.
 
 ---
 
