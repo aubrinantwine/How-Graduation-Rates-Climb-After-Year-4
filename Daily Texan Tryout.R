@@ -56,7 +56,8 @@ inst_grd_rt_chng <- clean_df |>
   arrange(Institution) |>
   filter(ReportYear != median(ReportYear)) |>
   select(ReportYear, Institution, GradRate4yr, System) |>
-  pivot_wider(names_from = ReportYear, values_from = GradRate4yr)
+  pivot_wider(names_from = ReportYear, values_from = GradRate4yr) |>
+  mutate(percent_change = ((`2023` - `2021`) / `2021`) * 100)
   
 # Plotting completion gap across 4-6 years by school system in most recent reporting year
 
@@ -68,7 +69,7 @@ plot_df <- clean_df |>
 
 # Building plot
 ggplot(plot_df, aes(x = Rate, y = reorder(Institution, Rate))) +
-  geom_line() +
+  geom_line(aes(color = System), linewidth = 0.75) +
   geom_point(aes(color = System), size = 3) +
   scale_color_manual(values = c('Texas A&M System' = '#500000', 'UT System' = '#BF5700')) +
   theme_minimal() +
