@@ -58,7 +58,7 @@ scale_color_manual(values = c('Texas A&M System' = '#500000', 'UT System' = '#BF
 
 ## Visualization
 
-<img width="2940" height="1782" alt="image" src="https://github.com/user-attachments/assets/3ca9db59-3997-4f5e-8ad7-5551da3332dc" />
+<img width="2344" height="1678" alt="image" src="https://github.com/user-attachments/assets/d899b95a-4e95-4f8e-8e18-9cd7111f9666" />
 
 
 > *Each line connects a school's 4-year (left) and 6-year (right) graduation rate. Longer lines indicate a larger jump after year four.*
